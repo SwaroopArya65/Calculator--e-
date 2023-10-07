@@ -31,7 +31,7 @@ html[data-theme="dark"]{
 
 body{
     background: var(--bg);
-    background-image: url(/Assets/Images/BG.jpg);
+    background-image: url(./Assets/Images/BG.jpg);
     font-family: 'Poppins', sans-serif;
 }
 
